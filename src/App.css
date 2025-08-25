@@ -12,7 +12,7 @@ footer{
   height: 30px;
   line-height: 30px;
   font-size: 8pt;
-  background: red;
+  background: lightgreen;
   color: white;
 }
 section{
@@ -35,7 +35,7 @@ input, label{
 }
 
 button{
-  background: blue;
+  background: green;
   color: white;
   font-weight: bold;
   width: 70px;
