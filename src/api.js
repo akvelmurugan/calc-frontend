@@ -1,4 +1,4 @@
-export const BASEURL = "http://local:8080/calc-backend/";
+export const BASEURL = "http://localhost:8080/calc-frontend/";
 export function callApi(reqmethod, url, data, responseHandler)
 {
     let options = "";
